@@ -2,11 +2,11 @@
 
 ### Mathematical Engineering in Data Science @ UPF
 
-> Exploring the intersection of mathematics, computation and financial markets.
+> Exploring the intersection of computational maths and financial markets.
 
 I'm a Mathematical Engineering in Data Science student at Universitat Pompeu Fabra, interested in **quantitative finance, mathematical finance, stochastic modelling and machine learning**.
 
-Currently, I'm building my foundations in quantitative finance through theory, programming and independent projects.
+Currently, I'm building my foundations in quantitative finance through theory and independent projects.
 
 ### 🔬 Current focus
 
