@@ -1,45 +1,19 @@
 # Hi, I'm Martina Gallemí 👋
 
-### Mathematical Engineering in Data Science @ UPF
+**Mathematical Engineering in Data Science @ UPF**  
+Incoming Erasmus @ TUM · 2027
 
-> Exploring the intersection of computational maths and financial markets.
+> Self-learning quantitative finance, one project at a time.
 
-I'm a Mathematical Engineering in Data Science student at Universitat Pompeu Fabra, interested in **quantitative finance, mathematical finance, stochastic modelling and machine learning**.
-
-Currently, I'm building my foundations in quantitative finance through theory and independent projects.
-
-### 🔬 Current focus
-
-- 📈 Quantitative & Mathematical Finance
-- 🎲 Stochastic processes & volatility modelling
-- 🧮 Numerical methods & Monte Carlo
-- 🐍 Python for quantitative research
-- 🤖 Machine Learning & Data Science
-
-### 📚 Currently learning
-
-**Malliavin Calculus and Stochastic Volatility**
-
-I'm studying stochastic volatility models, option pricing and volatility surfaces while implementing the ideas in Python.
+### Currently learning
+**Malliavin Calculus & Stochastic Volatility**
 
 → [stochastic-volatility-lab](https://github.com/mgallemi/stochastic-volatility-lab)
 
-### 🚀 What I'm working towards
+### Interests
+`Quantitative Finance` · `Mathematical Finance` · `Stochastic Modelling` · `Machine Learning`
 
-Building a strong foundation for **quantitative research and quantitative trading**, combining mathematical theory with practical implementation.
+### Tech
+`Python` · `NumPy` · `SciPy` · `Pandas` · `C++`
 
-### 🛠️ Tools & Technologies
-
-`Python` `NumPy` `SciPy` `Pandas` `Matplotlib` `Git` `C++` `Machine Learning`
-
-### 🎓 Education
-
-**Universitat Pompeu Fabra — Barcelona**  
-BSc in Mathematical Engineering in Data Science
-
-**Technical University of Munich (TUM)**  
-Erasmus — 2027
-
----
-
-📫 **Let's connect:** [LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](www.linkedin.com/in/martinagallemi)
